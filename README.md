@@ -46,3 +46,7 @@ se debe tener la información de los veterinarios, identificación, nombres, ape
 los datos que se requieren para las mascotas son: nombre, color, especie, raza y dueño
 
 cada mascota se le asignará un médico veterinario en el momento del registro quien llevará su control 
+
+trabajo consiste en desarrollar una solución que permita el adecuado manejo de la información mencionada
+
+
